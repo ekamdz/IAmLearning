@@ -1,4 +1,0 @@
-configMapGenerator:
-- name: game-config-4
-  files:
-  - configure-pod-container/configmap/game.properties
